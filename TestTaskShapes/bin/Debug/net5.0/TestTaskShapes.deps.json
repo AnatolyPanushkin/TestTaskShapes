@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestTaskShapes/1.0.0": {
+        "dependencies": {
+          "ShapesSquare": "1.0.0.0"
+        },
+        "runtime": {
+          "TestTaskShapes.dll": {}
+        }
+      },
+      "ShapesSquare/1.0.0.0": {
+        "runtime": {
+          "ShapesSquare.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestTaskShapes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShapesSquare/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
